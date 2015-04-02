@@ -4,9 +4,9 @@ Donate Link: http://www.mapjam.com
 Tags: maps, mapping, latitude, longitude, easy mapping, easy map, mapjam, map plugin, map marker, google maps, Esri maps, bing maps, HERE maps, 
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 4.3
+Stable tag: 1.0
 License: MIT
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: http://mapjam.mit-license.org/
 
 MapJam is a personalized mapping platform giving individuals and organizations the easiest way to personalize and share maps!  
 
