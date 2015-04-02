@@ -1,6 +1,5 @@
 === MapJam Mapping Plugin ===
 Contributors: mikeglobits
-Donate Link: http://www.mapjam.com
 Tags: maps, mapping, latitude, longitude, easy mapping, easy map, mapjam, map plugin, map marker, google maps, Esri maps, bing maps, HERE maps, 
 Requires at least: 3.0.1
 Tested up to: 4.1
@@ -89,11 +88,6 @@ This is an example of a full short code which is using the default map settings 
 This is an example of a complete attribute set for both static and interactive maps.
 
 == Changelog ==
-
-= 1.0 =
-* Initial Release
-
-== Upgrade Notice ==
 
 = 1.0 =
 * Initial Release
