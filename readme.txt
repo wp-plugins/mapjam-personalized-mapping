@@ -15,8 +15,8 @@ MapJam is a personalized mapping platform giving individuals and organizations t
 
 MapJam is free to use and includes:
 
-- 24 different map styles
-- Maps can be shared 9 different ways (SMS, MMS, Email, Facebook, Twitter, Google+, LinkedIN, Pinterest, QR code)
+- 11 different map styles
+- Maps can be shared 9 different ways (SMS, MMS, Email, Facebook, Twitter, Google+, LinkedIn, Pinterest, QR code)
 - Fully responsive HTML 5
 - First fully-interactive map for Facebook Pages
 - Live data API
